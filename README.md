@@ -22,7 +22,7 @@ Hi, I'm a Honnors Mathematics & Comp. Sci. first year student at McGill Universi
 
 - **3D Procedural Terrain Generation 🌳**
   - Showcases how one can use 2D and 3D Perlin Noise in order to create semi-realistic terrains 
-- **Metaballs 🧶**
+- **[Metaballs 🧶](https://github.com/MaeveCote/Metaballs)**
   - **Showcases the matematical concept of Metaballs in an artistic way**
 - **Pi And Bouncing Blocks 🥧**
   - Showcases an suprising and interesting way to calculate the value of Pi using elastic collisions of 2D blocks 
