@@ -2,7 +2,8 @@
 
 ***Software developer***
 
-Hi, I'm a Honnors Mathematics & Comp. Sci. first year student at McGill University. I'm passionnate about mathematics and love to learn how to apply abstract mathematical concepts into real life solutions, especially in computer science, AI and machine learning. I like to build little projects, from the ground up, showcasing interesting mathematicl concepts or algorithms through a video game, an applications or visual effects. <br>I'm also passionnate a guitar player mainly playing instrumental/experimental rock such as Steve Vai or Joe Satriani (classics) 🎸.
+Hi, I'm a Honnors Mathematics & Comp. Sci. first year student at McGill University. I'm passionnate about mathematics and love to learn how to apply abstract mathematical concepts into real life solutions, especially in computer science, AI and machine learning. I like to build little projects, from the ground up, showcasing interesting mathematicl concepts or algorithms through a video game, an applications or visual effects. 
+<br><br>I'm also passionnate a guitar player mainly playing instrumental/experimental rock such as Steve Vai or Joe Satriani (classics) 🎸.
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
