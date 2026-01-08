@@ -26,7 +26,7 @@ I'm also a passionate guitar player, mainly playing instrumental/experimental ro
 
 # 🚀 Featured Projects
 
-## **[Symbolic Computer Algebra System (CAS)](https://github.com/MaeveCote)** 🧠
+## **[Symbolic Computer Algebra System (CAS)](https://github.com/MaeveCote/cas)** 🧠
 *Built a symbolic algebra engine from scratch to explore core algorithms behind symbolic manipulation.*
 * **Core Features**: Implements expression tree traversal for symbolic simplification, expansion, factoring, and differentiation.
 * **Tech**: C# (.NET).
