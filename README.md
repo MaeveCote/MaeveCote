@@ -32,6 +32,12 @@ I'm also a passionate guitar player, mainly playing instrumental/experimental ro
 * **Tech**: C# (.NET).
 * **Focus**: Mathematical precision and modularity for complex algebraic rules.
 
+## **[Applied Machine Learning Portfolio](https://github.com/MaeveCote/COMP551-ML-Projects)** 🤖
+*A collection of foundational ML algorithms implemented from first principles (NumPy/Pandas) for COMP 551.*
+* **Core Algorithms**: Multivariable Linear Regression (Closed-Form & Gradient Descent), Classification, and Neural Networks built from scratch without high-level ML libraries.
+* **Tech**: Python, Jupyter Notebooks, LaTeX.
+* **Highlight**: Engineered a regression model for bike-sharing demand that achieved a **17.7% MSE reduction** through custom polynomial and interaction feature engineering.
+
 ## **i-DNA: Wood Species Identification** 🌲
 *Industrial R&D project developed during my internship at **[Carbotech](https://www.carbotech.ca/en/)**.*
 * **AI & CV**: Leveraged **Machine Learning classification models** and Computer Vision algorithms for real-time species detection on lumber boards.
