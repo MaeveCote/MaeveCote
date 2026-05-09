@@ -33,11 +33,14 @@ I'm also a passionate guitar player, mainly playing instrumental/experimental ro
 * **Focus**: Mathematical precision and modularity for complex algebraic rules.
 
 ## **[Applied Machine Learning Portfolio](https://github.com/MaeveCote/COMP551-ML-Projects)** 🤖
-*A collection of foundational ML algorithms implemented from first principles (NumPy/Pandas) for COMP 551.*
-* **Core Algorithms**: Multivariable Linear Regression (Closed-Form & Gradient Descent), Classification, and Neural Networks built from scratch without high-level ML libraries.
-* **Tech**: Python, Jupyter Notebooks, LaTeX.
-* **Highlight**: Engineered a regression model for bike-sharing demand that achieved a **17.7% MSE reduction** through custom polynomial and interaction feature engineering.
-
+*A comprehensive progression from foundational ML algorithms implemented from first principles to modern deep learning architectures designed for COMP 551.*
+* **Core Topics**: Multivariable Regression, Logistic Classification (SGD with L1/L2 Regularization), Image Classification (Siamese CNNs/MLPs), and Sequence Modeling (LSTMs & Transformers).
+* **Tech Stack**: Python, PyTorch, Hugging Face `transformers`, Scikit-learn, NumPy, Pandas, Jupyter, LaTeX.
+* **Key Highlights**:
+  * **Tabular Data:** Engineered a custom multivariable regression model for bike-sharing demand, achieving a **17.7% MSE reduction** through advanced polynomial feature interaction.
+  * **Computer Vision:** Designed a custom PyTorch Siamese CNN and Geometric MLP for an "Odd-One-Out" Kaggle competition, strictly adhering to a **<25k trainable parameter limit**.
+  * **NLP / Sequence Modeling:** Evaluated text classification strategies by comparing the training dynamics of a from-scratch word-level **LSTM** against a fine-tuned **DistilBERT** transformer (achieving **94.4% accuracy**).
+    
 ## **i-DNA: Wood Species Identification** 🌲
 *Industrial R&D project developed during my internship at **[Carbotech](https://www.carbotech.ca/en/)**.*
 * **AI & CV**: Leveraged **Machine Learning classification models** and Computer Vision algorithms for real-time species detection on lumber boards.
