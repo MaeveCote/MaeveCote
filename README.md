@@ -20,6 +20,8 @@ I'm also a passionate guitar player, mainly playing instrumental/experimental ro
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="OpenCv" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
 
 <br clear="left"/>
 
